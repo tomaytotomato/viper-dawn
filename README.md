@@ -16,13 +16,14 @@ Along the way Miller will come across old friends and new challenges as he track
 
 This is Viper Dawn!
 
-### Gameplay
+### Gameplay Features
 
 * First person style, with an arcade feel.
 * Visuals will be retro themed with a purple / magenta hue. Re-texturing will be done where necessary.
 * Miller will have a linear progression as he campaigns across the Tanoa wasteland.
 * Health will be managed by a script with basic auto healing along with the ability to heal yourself with resupplies.
 * Weapons will be tweaked to increase fire rate and explosiveness but reduced accuracy.
+* Retro sound and ambient effects.
 * Upgrades will be found around the island in specific locations.
 
 ### Main goals
@@ -54,7 +55,7 @@ This is Viper Dawn!
 
 * Satoshi Nakatomi - a master of the old ways, he trained Miller in the ways of combat but dissapeared mysteriously 10 years ago.
 
-* Pamela Pfeiffer - a biologist specialising in mutant and dangerous wildlife in the Tanoan wastes.
+* Pamela Pfeiffer - a geologist specialising in harnessing the energy of the Tanoan volcano
 
 * Syvelster Harris - mercenery sharpshooter looking for payback after Miller killed his son in a shootout with radical Hare Krishnas.
 
@@ -63,7 +64,7 @@ This is Viper Dawn!
 
 ### Animals:
 
-* Blood Rabbits - Dragons you say? This isn't some cheesy 80s scifi game? Stay away from these little critters.
+* Blood Rabbits - Dragons you say? This isn't some cheesy 80s scifi game! Stay away from these little critters.
 
 * Neo Snakes - Is that a snake in the forest or are you just happy to see me? No its a snake in the forest...
 
