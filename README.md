@@ -1,5 +1,5 @@
 
-[![N|Solid](https://github.com/tomaytotomato/viperdawn/blob/master/Viper-Dawn.png?raw=true)]()
+![Viper Dawn Title](https://github.com/tomaytotomato/viperdawn/blob/master/Viper-Dawn.png?raw=true)
 
 # Arma 3 Viper Dawn
 
