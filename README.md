@@ -1,6 +1,5 @@
 
-[![N|Solid](https://github.com/tomaytotomato/viperdawn/blob/master/Viper-Dawn-Logo.png?raw=true)]()
-
+[![N|Solid](https://github.com/tomaytotomato/viperdawn/blob/master/Viper-Dawn.png?raw=true)]()
 
 # Arma 3 Viper Dawn
 
@@ -45,27 +44,11 @@ This is Viper Dawn!
 
 ### Characters
 
-* Captain Miller - after the nuking of Tibet, Captain Miller was blamed for the incident and sent to Cryoprison Omega. Only to be thawed out early from serving his time.
-
-* Col. Wilkins - Miller's commanding officer who is running the mission against Fang. He was responsible for sending Miller to Cryoprison.
-
-* Johnson McJohnson - Miller's long time friend and war buddy. Johnson is a specialist in medical tech and nano bots who can assist Miller in combat.
-
-* Commander Fang - leader of the Viper force, once loyal to CSAT but has now gone rogue and is threatening to nuke the ice caps and cause global flooding. Is missing an eye after a failed assasination attempt by Miller.
-
-* Satoshi Nakatomi - a master of the old ways, he trained Miller in the ways of combat but dissapeared mysteriously 10 years ago.
-
-* Pamela Pfeiffer - a geologist specialising in harnessing the energy of the Tanoan volcano
-
-* Syvelster Harris - mercenery sharpshooter looking for payback after Miller killed his son in a shootout with radical Hare Krishnas.
-
-* Haka - Tanoan Syndikat leader who was badly mutated after the nuking of Tanoa. Has a love of machine guns.
-
+More info can be found [here](docs/characters.md)
 
 ### Animals:
 
 * Blood Rabbits - Dragons you say? This isn't some cheesy 80s scifi game! Stay away from these little critters.
-
 * Neo Snakes - Is that a snake in the forest or are you just happy to see me? No its a snake in the forest...
 
 ### Location:
@@ -104,10 +87,11 @@ lone wolf, action, revenge, self discovery, love, trial, apocalyptic, retro, mav
 
 ### Movie Inspirations:
 
-Kickboxer, Escape From New York, Terminator 2, Rocky IV, Timecop, Demolition Man, Airwolf, Predator, Karate Kid, 
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLKLMRoF6Be0WoIGtFEpjAcdNMChqwzuOv)
 
 
-Any suggestions or mods that can help out, please let me know!
+### Help
 
-[![N|Solid](https://github.com/tomaytotomato/viperdawn/blob/master/Viper-Dawn.png?raw=true)]()
+This is an early stage project, if you could advise or contribute in anyway that would be appreciated!
+
 
