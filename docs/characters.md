@@ -13,11 +13,11 @@ Miller is sarcastic, quietly cocky and witty.
 
 Nothing gets in his way if its the right call.
 
-### Colonel Colt
+### Colonel Johnson
 
 Head of NATO' task force. Needs to take out General Fang but is caught up in too much red tape.
 
-See's Miller as a risk but one he's willing to try.
+Sees Captain Miller and his methods as risky, but one he's willing to make.
 
 ### General Fang
 
@@ -27,7 +27,6 @@ See's his army as the future for humanity in this brave new world.
 
 Calculating, patient and devious.
 
-
 ---
 
 ## Other Characters
@@ -36,13 +35,13 @@ Calculating, patient and devious.
 
 Antagonist to Miller. 
 
-Honorable and competent
+Honorable and competent, he has a long history with Miller. Will he get in his way?
 
 ### Scientists
 
 Can be found throughout the game, can help Miller with tools, weapons and health kits.
 
-Cowardly and smart
+Cowardly but smart.
 
 ### Syndirad
 
@@ -53,3 +52,12 @@ Very radioactive, but most importantly very Rad!
 ### Haka
 
 Leader of the Syndirad
+
+Stubborn and violent.
+
+### Mary Jane
+
+Volcanologist studying the Tanoan volcano, she believes it has a hidden power that could be harnessed for humanities
+benefit.
+
+Resourceful and witty.

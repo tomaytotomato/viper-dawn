@@ -1,17 +1,20 @@
 
-![Viper Dawn Title](https://github.com/tomaytotomato/viperdawn/blob/master/Viper-Dawn.png?raw=true)
+![Viper Dawn Title](src/img/viper_dawn_logo_transparent.png)
 
-# Arma 3 Viper Dawn
+Arma 3 Viper Dawn
+---
 
 ### Summary
 
 The year is 2042; years of war have left most of the world in burning ruins. In the radioactive jungles of Tanoa, the ghosts of the Apex conflict return.
 
-Commander Fang, the leader of CSAT's Viper force has gone rogue and is threatening to nuke the world's ice caps, flooding the entire world.
+General Fang, the leader of Viper force has gone rogue and is threatening to nuke the world's ice caps, flooding the entire world.
 
-NATO's only chance at stopping Fang is to thaw out his old nemesis; Captain Miller, the man they put in Cryoprison for a crime he didn't commit. Through the toxic swamps and wastelands Miller must battle his way past mutated animals, cannibals and Viper force; an elite army of super soliders.
+The only chance of stopping Fang is to thaw out his old nemesis; Captain Miller, the man they put in Cryoprison for a crime he didn't commit.
 
-Along the way Miller will come across old friends and new challenges as he tracks down Commander Fang to his secret base.
+Through the toxic swamps and wastelands Miller must battle his way past mutated animals, cannibals and Viper force; an elite army of super soliders.
+
+Along the way Miller will come across old friends and new challenges as he tracks down General Fang to his secret base.
 
 This is Viper Dawn!
 
