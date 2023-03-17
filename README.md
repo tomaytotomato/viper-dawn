@@ -98,3 +98,9 @@ lone wolf, action, revenge, self discovery, love, trial, apocalyptic, retro, mav
 This is an early stage project, if you could advise or contribute in anyway that would be appreciated!
 
 
+### Licence
+
+Arma 3 and Armed Assault are trademarks and copyright of 
+[Bohemia Interactive](https://www.bohemia.net/).
+
+This is a personal project which is a modification of the Arma 3 game.
