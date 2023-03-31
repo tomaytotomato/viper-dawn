@@ -6,8 +6,6 @@ Arma 3: Viper Dawn
 
 ### Summary
 
-In the end, Miller is hailed as a hero, and he and Mary Jane watch as the Tanoan volcano erupts, unleashing the rare mineral that could save the planet. The world is saved, and Miller's name is cleared of the crime he never committed.
-
 The year is 2042; years of war have left most of the world in burning ruins. In the radioactive jungles of Tanoa, the ghosts of the Apex conflict return.
 
 General Fang, the leader of Viper force has gone rogue and is threatening to nuke the Tanoan volano, covering the Earth in volcanic ash.
