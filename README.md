@@ -1,18 +1,20 @@
 
 ![Viper Dawn Title](src/img/viper_dawn_logo_transparent.png)
 
-Arma 3 Viper Dawn
+Arma 3: Viper Dawn
 ---
 
 ### Summary
 
+In the end, Miller is hailed as a hero, and he and Mary Jane watch as the Tanoan volcano erupts, unleashing the rare mineral that could save the planet. The world is saved, and Miller's name is cleared of the crime he never committed.
+
 The year is 2042; years of war have left most of the world in burning ruins. In the radioactive jungles of Tanoa, the ghosts of the Apex conflict return.
 
-General Fang, the leader of Viper force has gone rogue and is threatening to nuke the world's ice caps, flooding the entire world.
+General Fang, the leader of Viper force has gone rogue and is threatening to nuke the Tanoan volano, covering the Earth in volcanic ash.
 
 The only chance of stopping Fang is to thaw out his old nemesis; Captain Miller, the man they put in Cryoprison for a crime he didn't commit.
 
-Through the toxic swamps and wastelands Miller must battle his way past mutated animals, cannibals and Viper force; an elite army of super soliders.
+Through the toxic swamps and wastelands Miller must battle his way past mutants, cannibal rebels and Viper force; an elite army of super soliders.
 
 Along the way Miller will come across old friends and new challenges as he tracks down General Fang to his secret base.
 
@@ -74,13 +76,14 @@ Around the island there are many locations that Miller can explore by foot or ve
 
 * Bandanas - fashionable but also have the spiritual powers of fallen warriors, different colours give different benefits (armor, speed, stealth). There ain't no unlimited ammo one though pal!
 * Bananas - full of potassium
+* Cereal - a nutritious snack or breakfast
 * Medpacks - no explanation needed
-* Freedom Magazine - Miller's favourite publication, various issues located around the island of Tanoa
+* VHS tapes - collect them to watch whilst eating your cereal
 
 ### Vehicles:
 
 * Hypercopter - transport helicopter to get you in and out of the battlefield whilst playing some classic Rock n Roll
-* Robotank - less likely to shoot friendly units since the latest patch against the CyberWorm 4000
+* CyberPanzer - less likely to shoot friendly units since the latest patch against the CyberWorm 4000
 * Jeep - a jeep!
 * Quadbike - a quadbike but with a cool retro paintjob
 
